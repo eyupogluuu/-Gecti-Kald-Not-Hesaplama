@@ -1,0 +1,1 @@
+# -Gecti-Kald-Not-Hesaplama
