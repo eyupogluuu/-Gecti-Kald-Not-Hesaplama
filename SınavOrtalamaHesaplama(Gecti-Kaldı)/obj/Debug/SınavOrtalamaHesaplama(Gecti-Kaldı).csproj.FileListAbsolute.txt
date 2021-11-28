@@ -1,0 +1,10 @@
+C:\Users\casper\Desktop\GitHub\SınavOrtalamaHesaplama(Gecti-Kaldı)\SınavOrtalamaHesaplama(Gecti-Kaldı)\bin\Debug\SınavOrtalamaHesaplama(Gecti-Kaldı).exe.config
+C:\Users\casper\Desktop\GitHub\SınavOrtalamaHesaplama(Gecti-Kaldı)\SınavOrtalamaHesaplama(Gecti-Kaldı)\bin\Debug\SınavOrtalamaHesaplama(Gecti-Kaldı).exe
+C:\Users\casper\Desktop\GitHub\SınavOrtalamaHesaplama(Gecti-Kaldı)\SınavOrtalamaHesaplama(Gecti-Kaldı)\bin\Debug\SınavOrtalamaHesaplama(Gecti-Kaldı).pdb
+C:\Users\casper\Desktop\GitHub\SınavOrtalamaHesaplama(Gecti-Kaldı)\SınavOrtalamaHesaplama(Gecti-Kaldı)\obj\Debug\SınavOrtalamaHesaplama(Gecti-Kaldı).csproj.AssemblyReference.cache
+C:\Users\casper\Desktop\GitHub\SınavOrtalamaHesaplama(Gecti-Kaldı)\SınavOrtalamaHesaplama(Gecti-Kaldı)\obj\Debug\SınavOrtalamaHesaplama_Gecti_Kaldı_.Form1.resources
+C:\Users\casper\Desktop\GitHub\SınavOrtalamaHesaplama(Gecti-Kaldı)\SınavOrtalamaHesaplama(Gecti-Kaldı)\obj\Debug\SınavOrtalamaHesaplama_Gecti_Kaldı_.Properties.Resources.resources
+C:\Users\casper\Desktop\GitHub\SınavOrtalamaHesaplama(Gecti-Kaldı)\SınavOrtalamaHesaplama(Gecti-Kaldı)\obj\Debug\SınavOrtalamaHesaplama(Gecti-Kaldı).csproj.GenerateResource.cache
+C:\Users\casper\Desktop\GitHub\SınavOrtalamaHesaplama(Gecti-Kaldı)\SınavOrtalamaHesaplama(Gecti-Kaldı)\obj\Debug\SınavOrtalamaHesaplama(Gecti-Kaldı).csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\GitHub\SınavOrtalamaHesaplama(Gecti-Kaldı)\SınavOrtalamaHesaplama(Gecti-Kaldı)\obj\Debug\SınavOrtalamaHesaplama(Gecti-Kaldı).exe
+C:\Users\casper\Desktop\GitHub\SınavOrtalamaHesaplama(Gecti-Kaldı)\SınavOrtalamaHesaplama(Gecti-Kaldı)\obj\Debug\SınavOrtalamaHesaplama(Gecti-Kaldı).pdb
